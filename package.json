@@ -1,0 +1,17 @@
+{
+  "name": "coding_test",
+  "version": "1.0.0",
+  "description": "Backup S3 Bucket",
+  "main": "backup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tushar Nautiyal",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^4.1.3",
+    "tar": "^5.0.5",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0"
+  }
+}

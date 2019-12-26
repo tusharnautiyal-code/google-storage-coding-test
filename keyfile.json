@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "disco-nirvana-263218",
+  "private_key_id": "227b8beec46f6db1af6820a19b15364022b675b6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDh15cU5EIduQwH\nj+6styWPnHTjxPSbWszWTUbosG5JJiFyCjOGndV3PI41xriw6NzYQv1qZwZKcepK\nYLNdos5VSI1KAk9v3luPnm2wn7vw+a+qwF2hrh/2Kfw/ImilwcqJTxRHkCdsNeu/\nMKOy706VGTnwF1g8IQFurCMSkpf0qUC3KgbH6XBJRQmnfNEzsMGaqAyq8iYhhN0+\nm/g+jKCKEi6YdUGph5Do+2zw7mLOdhpNkDj2J4YnWa7ytW+b4Zm6yChzbACryTm9\nh3f45JRW7wTHCgwwHjaqgq6lICuE0QXkiAv4qsPXhn/UzzR4/z/MNSciqHUCuCVQ\n8EbGn3ITAgMBAAECggEAGLzkxQURDkXBa5KjMjKy3+g4uuT4EOGr+PgTVv78avF3\noxDlqU6LSLmkBNVKUGvcGlQ8LfYwWjc1fVraSty/0oJVTPteeC0txQLgQQM+MvHR\nVtgmFBpepeLeHoxGVOHFWFpb06WWq+O8JFUk7pSypuJR1lq4RN3YqlFwsLgeAk59\nvO6hAOVIseCZy4MhpxmK40AsjXUsTorMv23ql0PRNdug+Vh7Yq10ctFgS4Wy1927\nm3fGvzQ1qpx4l9jyWSGVlYa2hE3ImorOxLfKYgaafTe/Lca+EyZf4yP3Jt4p2PGZ\nisQq+GjMKZcA+gC4k2aKRnI+costoPXnxQlz61mZAQKBgQD9uQvQ0vSPIXcsh3+n\npbtyRoBJ3/V/uNGclayLipm67S12ArHL/hGPRIrsOIdcJIHKLT0PLicbtJVDBYxD\nGoEK+jJwE94++psoQ41WlwNliqWaqKWjNc9BEUOK9KHpnl/UTSE4vVwNV4gGC2oi\nrsMbR4EWocJfj2RzkFMi2sWYRQKBgQDj3nw9ZC9/VL0XRcG7o25kXUU/dDKBwmh8\nBAmxv5t8eK3kV50P5hsHuAMH3joy4COMFuJ9aFL55WClZqOsz8lmXjJj6j3LqmbL\nT+aSk92A0z6DBvo9c341i2pTnLa4IxYAprLjVHgDEAwsV5lH2Rn9ouDGia9NUJXz\nW/VCwGKidwKBgCJ3q/I/Zje3fSAQfDgDHLbGexEOGqSyL8+MybbfKkkphT592Td0\nGWCUGCdE+qZ60yLrCFtykp+B5bEIJOjMxfD+0jFFkbCOjNtoad/0feKidiLPfEjy\nu2gEd19+IizBdhU6MSQrHUE2veTMUivJ//lJunCfou8mZKgKWDDo9WTdAoGBAJHr\nt8PYlFIGAdEVaqquTdMXp3CrCGzwAdjo/QxGl1tuLG09bebwg/69Z7NyK/LIdfsP\n7JpCZGCC8xD4WXgg1+gmCj7RkiEKTimEUTMsXXxRyoY9waH4g6nmTYCdqqTgUwa3\nuXa6cOAFNsZukkngTTSPSUHaidgI8v2Utcq5SHChAoGBAJi9cQYumeY+4k5KT2pI\nUVKzsPFFHfx41yvFjKK7rl20Y5O9Jf1piW1CaaMwSbQVGuTLEh6i3idzhXzVIALV\nrXZKw90147ucXc6Qkil57ndky/OGedpc1TQvW4h/4724MpJ/o5IxQn34mQ/PyTVL\n+CPm3xE9bof909qebX6TM5j1\n-----END PRIVATE KEY-----\n",
+  "client_email": "storage-test@disco-nirvana-263218.iam.gserviceaccount.com",
+  "client_id": "102640242113028419758",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storage-test%40disco-nirvana-263218.iam.gserviceaccount.com"
+}
